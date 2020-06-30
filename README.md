@@ -2,6 +2,8 @@
 
 A burger logger using MySQL, Node, Express, Handlebars, and a freshly cooked ORM.
 
+## Demo
+
 ## Installation
 1. Clone the github repo to your local machine.
 2. Run `npm install` in the terminal within the proper directory.
