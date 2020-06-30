@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(190, 13, 13);
+    text-align: center;
+}
+
+button {
+    background-color: gold;
+}
+
+ul {
+    padding: 10px;
+    margin: 10px;
+    background: goldenrod;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-form {
+    padding: 10px;
+    margin: 10px;
+    background: silver;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
