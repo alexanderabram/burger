@@ -11,3 +11,9 @@ router.get("/", function (req, res) {
         res.render("index", hbsObject);
     });
 });
+
+router.post("/api/burgers", function (req, res) {
+    burger.create(["burger_name", "devoured"], [req.body.name, req.body.devoured], function (result) {
+        res.json({ id: result.insertId });
+    });
+});
