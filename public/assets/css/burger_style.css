@@ -4,13 +4,13 @@ body {
 }
 
 button {
-    background-color: gold;
+    background-color: goldenrod;
 }
 
 ul {
     padding: 10px;
     margin: 10px;
-    background: goldenrod;
+    background: gold;
 }
 
 .label {
@@ -20,7 +20,7 @@ ul {
 .create-form {
     padding: 10px;
     margin: 10px;
-    background: silver;
+    background: gold;
 }
 
 .form-group {
