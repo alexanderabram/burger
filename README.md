@@ -1,6 +1,7 @@
 # Eat Dat Burger
 
 A burger logger using MySQL, Node, Express, Handlebars, and a freshly cooked ORM.
+Deployed app: https://desolate-ridge-18907.herokuapp.com/
 
 ## Demo
 ![Untitled_ Jun 30, 2020 8_03 PM](https://user-images.githubusercontent.com/63982568/86191764-7f201780-bb0d-11ea-95a9-1b50c05bee39.gif)
