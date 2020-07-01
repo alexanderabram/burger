@@ -3,7 +3,7 @@
 A burger logger using MySQL, Node, Express, Handlebars, and a freshly cooked ORM.
 
 ## Demo
-![Eat-Da-Burger](https://user-images.githubusercontent.com/63982568/86083650-7cb3b400-ba60-11ea-9645-a91b626f3f23.gif)
+![Untitled_ Jun 30, 2020 8_03 PM](https://user-images.githubusercontent.com/63982568/86191764-7f201780-bb0d-11ea-95a9-1b50c05bee39.gif)
 
 ## Installation
 1. Clone the github repo to your local machine.
